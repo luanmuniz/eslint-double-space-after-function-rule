@@ -1,0 +1,13 @@
+{
+  "name": "two-line-breaks-after-function",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [],
+  "devDependencies": {
+    "eslint": "9.10.0"
+  }
+}
