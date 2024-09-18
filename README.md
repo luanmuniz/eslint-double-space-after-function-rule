@@ -1,0 +1,1 @@
+# eslint-double-space-after-function-rule
