@@ -30,7 +30,7 @@ Then, add the rule to the rules section:
 ```json
 {
     "rules": {
-        "eslint-two-line-breaks-after-function": "error"
+        "two-line-breaks-after-function": "error"
     }
 }
 ```
